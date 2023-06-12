@@ -1,0 +1,8 @@
+C:\Users\penha\source\repos\geradorDeSenha\geradorDeSenha\bin\Debug\geradorDeSenha.exe.config
+C:\Users\penha\source\repos\geradorDeSenha\geradorDeSenha\bin\Debug\geradorDeSenha.exe
+C:\Users\penha\source\repos\geradorDeSenha\geradorDeSenha\bin\Debug\geradorDeSenha.pdb
+C:\Users\penha\source\repos\geradorDeSenha\geradorDeSenha\obj\Debug\geradorDeSenha.csproj.AssemblyReference.cache
+C:\Users\penha\source\repos\geradorDeSenha\geradorDeSenha\obj\Debug\geradorDeSenha.csproj.SuggestedBindingRedirects.cache
+C:\Users\penha\source\repos\geradorDeSenha\geradorDeSenha\obj\Debug\geradorDeSenha.csproj.CoreCompileInputs.cache
+C:\Users\penha\source\repos\geradorDeSenha\geradorDeSenha\obj\Debug\geradorDeSenha.exe
+C:\Users\penha\source\repos\geradorDeSenha\geradorDeSenha\obj\Debug\geradorDeSenha.pdb
